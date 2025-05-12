@@ -7,4 +7,3 @@ flaskr/__pycache__/
 
 *.bat
 instance/
-dist/
